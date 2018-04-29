@@ -23,6 +23,7 @@ class SleepTest(Test):
         time.sleep(sleep_length)
         self.log.debug("finito.....")
         self.log.debug("finito.....")
+        self.log.debug("finito.....")
 
 
 if __name__ == "__main__":
