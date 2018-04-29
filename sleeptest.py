@@ -24,6 +24,7 @@ class SleepTest(Test):
         self.log.debug("finito.....")
         self.log.debug("finito.....")
         self.log.debug("finito.....")
+        self.log.debug("finito.....")
 
 
 if __name__ == "__main__":
