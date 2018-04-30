@@ -22,7 +22,6 @@ class SleepTest(Test):
         self.log.debug("Sleeping for %.2f seconds", sleep_length)
         time.sleep(sleep_length)
         self.log.debug("finito.....")
-        self.log.debug("finito.....")
 
 
 if __name__ == "__main__":
